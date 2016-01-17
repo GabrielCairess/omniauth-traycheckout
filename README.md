@@ -44,6 +44,7 @@ provider :traycheckout, ENV['CONSUMER_KEY'], ENV['CONSUMER_SECRET'],
 ## Example
 
 [Source Code](https://github.com/gabrielpedepera/omniauth-test-traycheckout)
+
 [Application Heroku](http://omniauth-test-traycheckout.herokuapp.com/)
 
 ## Development
